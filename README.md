@@ -19,6 +19,7 @@ The applications allows users to do the following
 * Quote-form-component-for submitting the Quotes
 * Quote-details-component- showing properties of the quote instance: author, publisher, time ago and votes
 
+[Go Back to the top](#Quotes-Application)
  
 ## BDD(behaviour driven development)
 * User submitting a quotes
@@ -53,6 +54,8 @@ Technology used
 Angular JS
 HTML & CSS
 
+[Go Back to the top](#Quotes-Application)
+
  
 ## Bugs
 <p>if you encounter any bugs in the code, click <a href="https://github.com/kniveskatana/Quotes-Application/issues">here</a> your assistance will be valued
@@ -83,3 +86,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+[Go Back to the top](#Quotes-Application)
