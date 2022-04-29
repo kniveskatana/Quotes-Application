@@ -3,6 +3,13 @@ Angular quotes is a web apllication where users can create quotes and have those
 
 ##### By Joan Deng
 
+## Table of content
+
+- [Description](#description)
+- [User Requirements](#requiements)
+- [BDD(behaviour driven development)](#BDD)
+- [Licence](#licence)
+
 ## Description
 
 Angular quotes is a web apllication where users can create quotes and have those quotes voted on whether they are appalling or are inspirational.
@@ -60,13 +67,9 @@ code . to open the folder in your Vs Code
 ``
 
 
-Live demo
-To view the page click on the link below
+## live link
+* [KatanaRistorante](https://kniveskatana.github.io/KatanaRistorante/)
 
-https://jakhax.github.io/angular-quotes/
-Technology used
-Angular JS
-HTML & CSS
 
 [Go Back to the top](#Quotes-Application)
 
