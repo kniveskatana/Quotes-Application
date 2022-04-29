@@ -38,14 +38,28 @@ We use ngModels to do two way data binding from a template to a component a crea
 * Time ago
   * Exampe Input post a quote
   * Example Output a few seconds/ X minutes/ X hours/ X days quote.date| timeago
+
+
 #### Set up process
-Cloning into Master
+* to clone this repo
+
+``
 Make sure you have all the Requirements or running angular apps installed such as node,npm, tsc and watchman
-Clone the project into your machine from https://github.com/jakhax/angular-quotes.git
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-Using the dist directory
-Clone the project into your machine from https://github.com/jakhax/angular-quotes.git
-Move into the dist directory and open index.html from your browser, make sure you have internet connection as many scripts and assets will be loaded from the online github repository.
+``
+
+``
+Clone the project into your machine from https://github.com/kniveskatana/Quotes-Application.git
+``
+
+``
+cd Quotes-Application folder
+``
+
+``
+code . to open the folder in your Vs Code
+``
+
+
 Live demo
 To view the page click on the link below
 
